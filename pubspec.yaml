@@ -1,0 +1,13 @@
+name: fifty_days_of_dart
+description: An app to follow "50 Days of Dart"
+version: 1.0.0
+homepage: https://www.leventkantaroglu.com
+
+environment:
+  sdk: '>=2.15.1 <3.0.0'
+
+# dependencies:
+#   path: ^1.8.0
+
+dev_dependencies:
+  lints: ^1.0.0
